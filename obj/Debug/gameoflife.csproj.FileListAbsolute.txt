@@ -1,0 +1,8 @@
+U:\CPP\gameoflife\gameoflife\bin\Debug\gameoflife.exe
+U:\CPP\gameoflife\gameoflife\bin\Debug\gameoflife.pdb
+U:\CPP\gameoflife\gameoflife\obj\Debug\gameoflife.csprojResolveAssemblyReference.cache
+U:\CPP\gameoflife\gameoflife\obj\Debug\WindowsFormsApplication1.Form1.resources
+U:\CPP\gameoflife\gameoflife\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+U:\CPP\gameoflife\gameoflife\obj\Debug\gameoflife.csproj.GenerateResource.Cache
+U:\CPP\gameoflife\gameoflife\obj\Debug\gameoflife.exe
+U:\CPP\gameoflife\gameoflife\obj\Debug\gameoflife.pdb
